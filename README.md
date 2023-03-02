@@ -22,14 +22,11 @@ parquet csv 비교
 <br>
 파일 읽기 속도(sec (초))
 <br>
-parquet : 6
-<br>
-csv : 53
+- parquet : 6
+- csv : 53
 <br>
 파일 사이즈
 <br>
-parquet 346,478,514
-<br>
-csv   2,203,226,784
-<br>
-업로드일 : 23.03.02
+- parquet 346,478,514
+- csv   2,203,226,784
+- 업로드일 : 23.03.02
