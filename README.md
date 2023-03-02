@@ -20,7 +20,7 @@
 #### parquet_csv.py
 parquet csv 비교
 <br>
-파일 읽기 속도(sec (초))
+파일 읽기 속도 (sec (초))
 <br>
 - parquet : 6
 - csv : 53
